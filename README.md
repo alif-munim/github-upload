@@ -8,3 +8,4 @@ To view the live site, click the following link:
 ### Fixes to be implemented:
 - [ ] Increase clickable area in menu links
 - [ ] Update "Shop Now" link to scroll
+- [ ] Implement checkout functionality
