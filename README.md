@@ -1,3 +1,4 @@
-# This is the seedShop README file 
+### This is the seedShop README file 
 
-### More info to be added.
+To view the live site, click the following link:
+[Seed Shop](https://seed-shop.netlify.com/)
